@@ -103,7 +103,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/GameTronic/GameTronic/output/snake.svg" alt="Snake animation" />
-
-###
