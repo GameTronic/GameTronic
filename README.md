@@ -7,7 +7,7 @@
 <h3 align="center">💻  About Me 💻</h3>
 
 ###
-<p align="center">I'm QuackDuck from Poland<br><br>🔭 I’m working as a Java Developer 🔭<br>🧊 I code Minecraft Plugins 🧊<br>📚 I'm currently learning Python 📚<br>⚡ In my free time I listen to music ⚡</p>
+<p align="center">I'm QuackDuck from Poland<br><br>🔭 I’m working as a Java Developer 🔭<br>🧊 I code Minecraft Plugins 🧊<br>📚 I'm currently learning Figma 📚<br>⚡ In my free time I listen to music ⚡</p>
 
 ###
 
