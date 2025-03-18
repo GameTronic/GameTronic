@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/GameTronic/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/GameTronic/count.svg?" style="filter: hue-rotate(-120deg) contrast(1000%);" />
 </div>
 
 ###
@@ -97,7 +97,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GameTronic&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=GameTronic&theme=dark&date_format=j%20M%5B%20Y%5D&background=0D1117&border=3D444D&ring=FF0000&fire=FF0000&stroke=3D444D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=3D444D&excludeDaysLabel=3D444D" height="256" alt="Streak Graph"  />
 </div>
 
 ###
